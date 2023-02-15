@@ -21,7 +21,7 @@ Here are some of the key features and concepts you should know when learning abo
 
 To get started with Redis, you can download and install Redis on your machine or use a cloud-based service like Redis Labs or Amazon ElastiCache. Once you have Redis set up, you can use a client library in your programming language of choice to interact with Redis.
 
-## example in node.js
+## example redis with node.js as CACHE.
 ```bash
 git clone https://github.com/abdoafage/redis-examples
 
